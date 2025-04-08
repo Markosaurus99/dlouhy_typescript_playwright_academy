@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.23.0",
